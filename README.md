@@ -2,12 +2,12 @@
 
 ---
 
-# DIO-Database-Experience
+# Bootcamp DIO - Database Experience
 Repositório feito para documentar o bootcamp sobre Banco de Dados da DIO para profissionais de Ciência de Dados, com os conceitos de banco de dados SQL e NoSQL.
 
 ------
 
-[TOC]
+
 
 
 
@@ -23,7 +23,7 @@ A entrega deste desafio foi feita a partir de práticas de Modelagem EER utiliza
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Entrega – Possui status e código de rastreio.
 
-Tanto os arquivos de edição da modelagem, quanto as imagem apresentada a seguir, também estão na [pasta de documentação do desafio](doc/Desafio1).
+Os arquivos de edição da modelagem e a imagem apresentada a seguir estão na [pasta de documentação do desafio](doc/Desafio1).
 
 ![e-commerce](doc/Desafio1/static/img/e-commerce.png)
 
@@ -42,7 +42,7 @@ A entrega deste desafio foi feita a partir de práticas de Modelagem EER utiliza
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-Tanto os arquivos de edição da modelagem, quanto as imagem apresentada a seguir, também estão na [pasta de documentação do desafio](doc/Desafio2).
+Os arquivos de edição da modelagem e a imagem apresentada a seguir estão na [pasta de documentação do desafio](doc/Desafio2).
 
 ![oficina](doc/Desafio2/static/img/oficina.png)
 
